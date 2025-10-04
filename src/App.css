@@ -158,3 +158,12 @@ ul li {
   padding: 10px 15px;
   border-radius: 6px;
 }
+.btn.edit {
+  background-color: #ffb949;
+  margin: 0 5px;
+}
+.btn.cancel {
+  background-color: #e0ecec;
+  margin: 0 5px;
+
+}
